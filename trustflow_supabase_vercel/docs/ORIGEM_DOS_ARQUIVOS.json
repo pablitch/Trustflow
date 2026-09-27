@@ -1,0 +1,8 @@
+{
+  "backend": "trustflow_integrado_sem_limite.zip, 16/09/2026",
+  "frontend": "index_demonstrativo.html, 16/09/2026",
+  "backend_sha256": "f7307261c24d214559dbde880ff9ccb77a8fdb0d5d2224239c5cceaa18273c02",
+  "frontend_sha256": "ebdae29b26ce99fe7ee15a608226f74ebfea54ca2f1edcc59ca20d665d142825",
+  "observacao": "Últimas fontes disponíveis nesta conversa; não foi feita leitura da VM em 27/09/2026.",
+  "complemento": "trustflow_pacote_status_sinal_bateria_v3.zip, 01/09/2026: campos BateriaVolts/SinalRssi e referências de firmware/helper"
+}
